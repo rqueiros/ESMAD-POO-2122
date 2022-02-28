@@ -6,3 +6,4 @@ Professores:
 
 - Mário Pinto (mariopinto@esmad.ipp.pt)
 - Ricardo Queirós (ricardoqueiros@esmad.ipp.pt)
+- Daniel Carneiro (dgc@esmad.ipp.pt)
