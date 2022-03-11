@@ -1,6 +1,3 @@
-
-
-
 // 2a
 // function printName(name) {
 // 	console.log(`HELLO ${name}`);
